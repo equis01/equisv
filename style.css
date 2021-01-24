@@ -97,7 +97,14 @@ main a:nth-child(6) {
   background-color: #7289DA;
   filter: drop-shadow(5px 5px 0 #7289da7c);
 }
-
+main a:nth-child(7) {
+  background-color: #8140EC;
+  filter: drop-shadow(5px 5px 0 #8B56E2);
+}
+main a:nth-child(8) {
+  background-color: #000000;
+  filter: drop-shadow(5px 5px 0 #FFFFFF);
+}
 
 
 @media screen and (max-width: 425px) {
