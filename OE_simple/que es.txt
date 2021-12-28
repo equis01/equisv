@@ -1,0 +1,4 @@
+OE es un archivo auto-ejecutable que cuenta con líneas de comandos demasiado sencillas, que se ejecutan de manera autómatica para la limpieza de caché del wifi, archivos basura y temporales, que relentizan el ordenador.
+Este archivo ha sido desarrollado por equisx01 para fines no lúcrativos y de uso personal y familiar, con el fin de hacer una optimización simple y sencilla. Por lo cual, no cuenta con ningún archivo dañino para su dispositivo.
+Algunos de los archivos extras no desarrollados por equisx01, se han modificado, para no tener ningún problema en su dispositivo al momento de su uso.
+Para contacto, ingresar a http://equisv.xyz

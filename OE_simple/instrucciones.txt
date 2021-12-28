@@ -1,0 +1,2 @@
+1. Ejecutar "OE v1.01.cmd" con permisos de administrador.
+2. Y ya xd
