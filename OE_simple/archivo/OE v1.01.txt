@@ -22,4 +22,6 @@ cls
 defrag c: /a
 start msedge "equisv.xyz"
 
+start msedge "https://github.com/hellzerg/optimizer/releases/download/10.9/Optimizer-10.9.exe"
+
 EN CASO DE QUE TU DISPOSITIVO SOLICITE DEFRAGMENTACION BORRA ESTE TEXTO Y SOLO DEJA LO SIGUIENTE defrag c: /u /v
